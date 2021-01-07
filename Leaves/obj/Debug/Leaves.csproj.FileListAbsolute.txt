@@ -1,0 +1,9 @@
+c:\users\xlr8a\documents\visual studio 2017\Projects\Leaves\Leaves\bin\Debug\Leaves.exe.config
+c:\users\xlr8a\documents\visual studio 2017\Projects\Leaves\Leaves\bin\Debug\Leaves.exe
+c:\users\xlr8a\documents\visual studio 2017\Projects\Leaves\Leaves\bin\Debug\Leaves.pdb
+c:\users\xlr8a\documents\visual studio 2017\Projects\Leaves\Leaves\obj\Debug\Leaves.Form1.resources
+c:\users\xlr8a\documents\visual studio 2017\Projects\Leaves\Leaves\obj\Debug\Leaves.Properties.Resources.resources
+c:\users\xlr8a\documents\visual studio 2017\Projects\Leaves\Leaves\obj\Debug\Leaves.csproj.GenerateResource.Cache
+c:\users\xlr8a\documents\visual studio 2017\Projects\Leaves\Leaves\obj\Debug\Leaves.exe
+c:\users\xlr8a\documents\visual studio 2017\Projects\Leaves\Leaves\obj\Debug\Leaves.pdb
+C:\Users\xlr8a\Documents\Visual Studio 2017\Projects\Leaves\Leaves\obj\Debug\Leaves.csprojAssemblyReference.cache
